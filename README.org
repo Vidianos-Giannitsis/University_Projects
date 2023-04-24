@@ -1,0 +1,23 @@
+#+TITLE: University Projects
+
+This git repo serves as a way for me to share the pdfs of some of my university projects which I consider to be very well written and worth sharing. The assignments were all written in greek, although there is the potential to translate some of them to English. The rest of the README will be describing the assignments in both Greek and English. These are:
+
+* Product Design
+Η εργασία μου στον Σχεδιασμό Προιόντων είναι ένα σύντομο review για υλικά που μπορούν να χρησιμοποιηθούν για την δημιουργία περιεκτών καφέ οι οποίοι να είναι πιο φιλικοί προς το περιβάλλον σε σύγκριση με τα συμβατικά πλαστικά. Εστιάζει κυρίως στα βιοπολυμερή και γιατί θεωρείται πως μπορούν να αντικαταστήσουν τα συμβατικά πλαστικά καθώς έχουν παρόμοιες ή σε κάποιες περιπτώσεις και καλύτερες ιδιότητες. Είναι κατά την γνώμη η καλύτερη δουλειά που έχω κάνει στο πανεπιστήμιο. Εκτός από το pdf της εργασίας, υπάρχει και ένα για την παρουσίαση που δώθηκε σχετικά με αυτό. Σκοπέυω να μεταφράσω την εργασία και στα αγγλικά.
+
+My assignment on product design was a short review on materials that could be used for the creation of coffee cups which are more enviromentally friendly than conventional plastics. It focuses primarily on biopolymers and why they could replace the conventional materials used as they have the same or in some cases even better properties. It is in my opinion, the best assignment I have done in university. It is also paired with a presentation that was given for it. There is plan to translate the whole assignment to English eventually.
+
+* 3d Printing
+Η εργασία μου στην τρισδιάστατη εκτύπωση είναι μία εργασία σχετικά με τις διάφορες τεχνολογίες τρισδιάστατης εκτύπωσης που υπάρχουν αυτή τη στιγμή με έμφαση στην χρήση πολυμερών σε αυτήν. Αναφέρονται οι βασικές τεχνολογίες τρισδιάστατης εκτύπωσης, τα βασικά πολυμερή που χρησιμοποιούνται σε αυτή, ο ρόλος της τεχνολογίας στην κυκλική οικονομία και την βιώσιμη ανάπτυξη και τέλος εφαρμογές αυτής.
+
+My assignment on 3d printing is one focusing on different 3d printing technologies that exist right now with an emphasis on the use of polymers in them. Mentioned are the core 3d printing technologies, which polymers are used in them, the role of 3d printing in circular economy and sustainable development and lastly applications of the technology.
+
+* Bioethanol
+Η εργασία μου πάνω στην παραγωγή βιοαιθανόλης είναι μία μεγάλη εργασία πάνω στην διαχείριση αποβλήτων και χρήση τους για παραγωγή βιοαιθανόλης 2ης γενιάς. Αναφέρει τις περισσότερες τεχνολογίες προεπεξεργασίας της βιομάζας οι οποίες χρησιμοποιούνται, καθώς και τα υπόλοιπα στάδια της διεργασίας όπως η ενζυμική υδρόλυση μετά την προεπεξεργασία, η αλκοολική ζύμωση και ο διαχωρισμός για ανάκτηση καθαρής αιθανόλης. Έπειτα, ασχολείται και με εφαρμογές της βιοαιθανόλης. Εκτός από αυτά, γίνεται μία αναφορά στις άλλες γενιές (βιοαιθανόλη 1ης γενιάς η οποία παράγεται από φυτά και 3ης γενιάς από φύκη) καθώς και μία αναφορά στα βιοδιυλιστήρια, τα οποία είναι πολύ σημαντικά για την μείωση του κόστους της διεργασίας. Και αυτή έχει την συνοδευόμενη παρουσίαση.
+
+My assignment on bioethanol production is a large one focused on waste management and valorization for production of 2G bioethanol. Mentioned are most pretreatment technologies of the biomass, as well as the rest of the stages of the process such as enzymatic hydrolysis, alcoholic fermentation and separation for recovery of pure ethanol. Furthermore, application of bioethanol are mentioned, as well as the other generation bioethanol production (1G bioethanol from crops and 3G bioethanol from algae). Lastly, there is a mention of biorefineries, which are very important for a decrease in the cost of the process. This one has a presentation as well.
+
+* Process Design
+Η εργασία μου στον Σχεδιασμό Διεργασιών είναι ο ολοκληρωμένος σχεδιασμός μίας διεργασίας επεξεργασίας πυρηνόξυλου (του ξυλώδους υπολείμματος του πυρήνα της ελιάς) για παραγωγή γλυκερόλης και κυκλοπεντανόνης. Η εργασία αυτή είναι αρκετά documented σε ξεχωριστό repository αποκλειστικά για αυτήν. [[https://github.com/Vidianos-Giannitsis/Process-Design][Link]]
+
+My process design project is about the integrated design of a olive kernel valorization process (the kernel is the woody residue of the olive core) for production of glycerol and cyclopentanone. This assignment is thoroughly documented in a separate repository just for it. [[https://github.com/Vidianos-Giannitsis/Process-Design][Link]]
